@@ -30,9 +30,3 @@ def isWinner(x, nums):
         return "Ben"
     else:
         return None
-
-# Test the function with the given example
-x = 3
-nums = [4, 5, 1]
-print(isWinner(x, nums))  # Output: "Ben"
-
